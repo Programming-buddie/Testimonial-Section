@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [https://github.com/Programming-buddie.github.io/Testimonial-Section/]
+- Live Site URL: [https://programming-buddie.github.io/Testimonial-Section/]
 
 ## My process
 
